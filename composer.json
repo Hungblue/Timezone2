@@ -1,0 +1,23 @@
+{
+  "name": "hungblue/timezones",
+  "description": "first package log timezones",
+  "keywords": [
+    "laravel"
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Hungblue\\Timezones\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "hungblue",
+      "email": "nguyenhung11012000@gmail.com"
+    }
+  ],
+  "require": {
+    "php": "^8.1|^8.2"
+  },
+  "minimum-stability": "dev"
+}
